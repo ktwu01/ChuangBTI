@@ -52,7 +52,7 @@ npm install
 npm run dev
 ```
 
-浏览器打开终端里提示的本地地址（一般为 `http://localhost:5173/`）。
+浏览器打开终端里提示的本地地址（本项目默认可用 `http://localhost:5180/`；可用 `VITE_DEV_PORT=端口 npm run dev` 覆盖）。
 
 ```bash
 # 构建生产版本（输出 dist/，部署时只上传 dist 内文件）

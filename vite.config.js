@@ -8,6 +8,12 @@ const base = process.env.VITE_BASE ?? './'
 
 export default defineConfig({
   base,
+  server: {
+    // Default 5173 is often taken by another Vite app; use a project-specific port
+    // so the URL stays the same every run (no auto 5174/5175…).
+    port: Number(process.env.VITE_DEV_PORT) || 5180,
+    strictPort: true,
+  },
   build: {
     outDir: 'dist',
   },

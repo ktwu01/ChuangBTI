@@ -1,8 +1,10 @@
-# SBTI 人格测试
+# ChuangBTI 人格测试
 
-> MBTI已经过时，SBTI来了。
+> MBTI已经过时，ChuangBTI来了。
 
-一个开源的娱乐性人格测试项目，基于 B站UP主 [@蛆肉儿串儿](https://space.bilibili.com/417038183) 的原创测试。
+一个开源的娱乐性人格测试项目，基于创始人MBTI的整活搞笑版本。
+
+Remixed by [Koutian Wu]((https://ktwu01.github.io/)
 
 ## 在线体验
 

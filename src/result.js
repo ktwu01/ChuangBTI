@@ -105,9 +105,11 @@ export function renderResult(result, userLevels, dimOrder, dimDefs, config) {
     topEl.appendChild(item)
   })
 
-  // 免责声明
-  document.getElementById('disclaimer').textContent =
+  // 免责声明（funNote 可含 <br>、链接等 HTML）
+  const disclaimerEl = document.getElementById('disclaimer')
+  const noteHtml =
     mode === 'normal' ? config.display.funNote : config.display.funNoteSpecial
+  disclaimerEl.innerHTML = noteHtml || ''
 
   // 下载分享图
   const btnDownload = document.getElementById('btn-download')

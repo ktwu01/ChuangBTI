@@ -129,7 +129,7 @@ export async function generateShareImage(primary, userLevels, dimOrder, dimDefs,
   ctx.textAlign = 'center'
   ctx.font = '400 18px system-ui, "PingFang SC", "Microsoft YaHei", sans-serif'
   ctx.fillStyle = '#aab8ac'
-  ctx.fillText('ChuangBTI人格测试 · 仅供娱乐', W / 2, H - cardY - 24)
+  ctx.fillText('ChuangBTI · 中国创始人整活测评 · 仅供娱乐', W / 2, H - cardY - 24)
 
   // 下载
   const link = document.createElement('a')

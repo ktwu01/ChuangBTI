@@ -4,6 +4,9 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
+    "test": "node scripts/validate-data.mjs",
+    "generate:analysis": "node scripts/generate-analysis.mjs",
+    "generate:figures": "node scripts/generate-figures.mjs",
     "build": "vite build",
     "build:subdir": "VITE_BASE=/ChuangBTI/ vite build",
     "preview": "vite preview"

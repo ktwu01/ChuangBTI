@@ -2,6 +2,8 @@
  * 生成分享图片 — 纯 Canvas 绘制，无外部依赖
  */
 
+import { getFigureSrc } from './figures.js'
+
 const LEVEL_NUM = { L: 1, M: 2, H: 3 }
 const LEVEL_LABEL = { L: '低', M: '中', H: '高' }
 
@@ -46,16 +48,16 @@ export async function generateShareImage(primary, userLevels, dimOrder, dimDefs,
   y += 56
 
   // 类型代码
-  ctx.font = '900 72px system-ui, "PingFang SC", "Microsoft YaHei", sans-serif'
+  ctx.font = '900 64px system-ui, "PingFang SC", "Microsoft YaHei", sans-serif'
   ctx.fillStyle = '#4c6752'
   ctx.fillText(primary.code, W / 2, y)
-  y += 40
+  y += 36
 
   // 中文名
-  ctx.font = '600 32px system-ui, "PingFang SC", "Microsoft YaHei", sans-serif'
+  ctx.font = '600 30px system-ui, "PingFang SC", "Microsoft YaHei", sans-serif'
   ctx.fillStyle = '#2c3e2d'
   ctx.fillText(primary.cn, W / 2, y)
-  y += 36
+  y += 32
 
   // 匹配度徽章
   const matchLabel = ui.matchLabel || 'ChuangBTI 脑回路重合度'
@@ -69,7 +71,24 @@ export async function generateShareImage(primary, userLevels, dimOrder, dimDefs,
   ctx.fill()
   ctx.fillStyle = '#4c6752'
   ctx.fillText(badgeText, W / 2, y + 6)
-  y += 44
+  y += 42
+
+  // 类型配图
+  const figure = await loadFigure(primary.code)
+  if (figure) {
+    const figureW = 320
+    const figureH = 220
+    const figureX = (W - figureW) / 2
+    roundRect(ctx, figureX, y, figureW, figureH, 18)
+    ctx.fillStyle = '#e8f0ea'
+    ctx.fill()
+    ctx.save()
+    roundRect(ctx, figureX, y, figureW, figureH, 18)
+    ctx.clip()
+    drawImageCover(ctx, figure, figureX, y, figureW, figureH)
+    ctx.restore()
+    y += figureH + 22
+  }
 
   // Intro
   ctx.font = 'italic 600 22px system-ui, "PingFang SC", "Microsoft YaHei", sans-serif'
@@ -83,10 +102,10 @@ export async function generateShareImage(primary, userLevels, dimOrder, dimDefs,
 
   // 雷达图
   const radarCx = W / 2
-  const radarCy = y + 150
-  const radarR = 130
+  const radarCy = y + 112
+  const radarR = 92
   drawShareRadar(ctx, radarCx, radarCy, radarR, userLevels, dimOrder, dimDefs)
-  y = radarCy + radarR + 40
+  y = radarCy + radarR + 28
 
   // 维度条形图
   y += 10
@@ -129,7 +148,7 @@ export async function generateShareImage(primary, userLevels, dimOrder, dimDefs,
     ctx.fillText(LEVEL_LABEL[level], barX + barMaxW, y)
     ctx.textAlign = 'left'
 
-    y += 26
+    y += 22
   }
 
   y += 16
@@ -257,4 +276,26 @@ function wrapText(ctx, text, maxWidth) {
   }
   if (line) lines.push(line)
   return lines
+}
+
+function loadFigure(code) {
+  return new Promise((resolve) => {
+    const img = new Image()
+    img.onload = () => resolve(img)
+    img.onerror = () => resolve(null)
+    img.src = getFigureSrc(code)
+  })
+}
+
+function drawImageCover(ctx, img, x, y, w, h) {
+  const iw = img.naturalWidth || img.width
+  const ih = img.naturalHeight || img.height
+  if (!iw || !ih) return
+
+  const scale = Math.max(w / iw, h / ih)
+  const sw = w / scale
+  const sh = h / scale
+  const sx = (iw - sw) / 2
+  const sy = (ih - sh) / 2
+  ctx.drawImage(img, sx, sy, sw, sh, x, y, w, h)
 }

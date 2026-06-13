@@ -246,6 +246,23 @@ a.btn {
   margin-bottom: 20px;
 }
 
+.result-figure-wrap {
+  margin: 0 auto 20px;
+  max-width: 280px;
+  border-radius: var(--radius);
+  overflow: hidden;
+  box-shadow: var(--shadow);
+  border: 1px solid var(--border);
+  background: var(--accent-light);
+}
+
+.result-figure {
+  display: block;
+  width: 100%;
+  height: auto;
+  vertical-align: middle;
+}
+
 .result-intro {
   font-size: 1rem;
   color: var(--text);

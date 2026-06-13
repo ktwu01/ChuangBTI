@@ -27,6 +27,8 @@ Remixed by [Koutian Wu](https://ktwu01.github.io/)
 │   ├── dimensions.json      # 15个维度定义
 │   ├── types.json           # 人格类型和匹配模式
 │   └── config.json          # 评分参数和显示配置
+├── public/
+│   └── figures/             # 结果页与分享图使用的人格配图
 ├── src/                     # 源代码
 │   ├── engine.js            # 评分算法（纯函数）
 │   ├── quiz.js              # 答题流程控制
@@ -35,6 +37,7 @@ Remixed by [Koutian Wu](https://ktwu01.github.io/)
 │   ├── utils.js             # 工具函数
 │   ├── main.js              # 入口
 │   └── style.css            # 样式（CSS变量主题化）
+├── scripts/                 # 数据校验、配图生成、分析文档生成
 ├── docs/
 │   └── analysis.md          # 数据分析报告
 └── index.html
@@ -60,6 +63,9 @@ npm run build
 
 # 若站点必须挂在固定子路径（如仅支持 /ChuangBTI/ 绝对前缀）
 npm run build:subdir
+
+# 校验题库、类型、特殊结果和配图资产
+npm test
 ```
 
 ## 定制你自己的测试
@@ -102,6 +108,14 @@ npm run build:subdir
 ```
 
 `pattern` 是 15 个字母的 L/M/H 组合（按维度顺序：S1-S3, E1-E3, A1-A3, Ac1-Ac3, So1-So3），用 `-` 分隔每个模型。
+
+添加或修改类型后，建议同步生成配图和分析文档：
+
+```bash
+npm run generate:figures
+npm run generate:analysis
+npm test
+```
 
 ### 调整评分参数
 

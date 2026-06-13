@@ -1,4 +1,5 @@
 import { drawRadar } from './chart.js'
+import { getFigureSrc } from './figures.js'
 import { generateShareImage } from './share.js'
 
 const LEVEL_LABEL = { L: '低', M: '中', H: '高' }
@@ -29,6 +30,17 @@ export function renderResult(result, userLevels, dimOrder, dimDefs, config) {
   document.getElementById('result-badge').textContent =
     `${matchLabel} ${primary.similarity}%` +
     (primary.exact != null ? ` · ${exactLabel} ${primary.exact}/15` : '')
+
+  // 人格配图（public/figures/<CODE>.svg，缺省则隐藏）
+  const figureWrap = document.getElementById('result-figure-wrap')
+  const figureImg = document.getElementById('result-figure')
+  if (figureWrap && figureImg) {
+    figureWrap.hidden = true
+    figureImg.onload = () => { figureWrap.hidden = false }
+    figureImg.onerror = () => { figureWrap.hidden = true }
+    figureImg.src = getFigureSrc(primary.code)
+    figureImg.alt = `${primary.code} · ${primary.cn}`
+  }
 
   // Intro & 描述
   document.getElementById('result-intro').textContent = primary.intro || ''

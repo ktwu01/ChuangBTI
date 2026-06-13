@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="640" viewBox="0 0 960 640" role="img" aria-labelledby="title desc">
+  <title id="title">AIGC · AI教徒</title>
+  <desc id="desc">ChuangBTI result figure for AI教徒.</desc>
+  <rect width="960" height="640" rx="44" fill="#f8f9fa" />
+  <path d="M0 518 C180 430 280 634 456 548 C640 458 718 512 960 420 L960 640 L0 640 Z" fill="#21382f" opacity="0.13" />
+  <circle cx="760" cy="126" r="46" fill="#fb8500" opacity="0.16" />
+  <circle cx="166" cy="160" r="116" fill="#8ecae6" opacity="0.13" />
+  <g transform="translate(0 10)">
+    <circle cx="480" cy="300" r="226" fill="#21382f" opacity="0.055" />
+    <circle cx="480" cy="300" r="176" fill="none" stroke="#21382f" stroke-opacity="0.13" stroke-width="2" />
+    <circle cx="480" cy="300" r="112" fill="none" stroke="#21382f" stroke-opacity="0.13" stroke-width="2" />
+    <rect x="474" y="70" width="12" height="42" rx="6" fill="#eadde7" opacity="0.35" transform="rotate(-90 480 310)" />
+    <rect x="474" y="70" width="12" height="42" rx="6" fill="#eadde7" opacity="0.35" transform="rotate(-66 480 310)" />
+    <rect x="474" y="70" width="12" height="42" rx="6" fill="#8ecae6" opacity="1" transform="rotate(-42 480 310)" />
+    <rect x="474" y="70" width="12" height="42" rx="6" fill="#eadde7" opacity="0.35" transform="rotate(-18 480 310)" />
+    <rect x="474" y="70" width="12" height="42" rx="6" fill="#8ecae6" opacity="1" transform="rotate(6 480 310)" />
+    <rect x="474" y="70" width="12" height="42" rx="6" fill="#eadde7" opacity="0.35" transform="rotate(30 480 310)" />
+    <rect x="474" y="70" width="12" height="42" rx="6" fill="#eadde7" opacity="0.35" transform="rotate(54 480 310)" />
+    <rect x="474" y="70" width="12" height="42" rx="6" fill="#eadde7" opacity="0.65" transform="rotate(78 480 310)" />
+    <rect x="474" y="70" width="12" height="42" rx="6" fill="#eadde7" opacity="0.35" transform="rotate(102 480 310)" />
+    <rect x="474" y="70" width="12" height="42" rx="6" fill="#eadde7" opacity="0.35" transform="rotate(126 480 310)" />
+    <rect x="474" y="70" width="12" height="42" rx="6" fill="#eadde7" opacity="0.35" transform="rotate(150 480 310)" />
+    <rect x="474" y="70" width="12" height="42" rx="6" fill="#eadde7" opacity="0.35" transform="rotate(174 480 310)" />
+    <rect x="474" y="70" width="12" height="42" rx="6" fill="#eadde7" opacity="0.65" transform="rotate(198 480 310)" />
+    <rect x="474" y="70" width="12" height="42" rx="6" fill="#eadde7" opacity="0.35" transform="rotate(222 480 310)" />
+    <rect x="474" y="70" width="12" height="42" rx="6" fill="#eadde7" opacity="0.65" transform="rotate(246 480 310)" />
+    <polygon points="482.5,253.7 504.7,260.4 607.4,205.0 536.3,294.4 645.3,334.7 526.7,339.8 510.0,355.4 498.8,422.2 465.9,364.6 445.5,353.4 431.7,335.1 421.7,313.6 375.3,270.8 440.5,271.2 439.8,207.9" fill="#8ecae6" fill-opacity="0.2" stroke="#21382f" stroke-width="6" stroke-linejoin="round" />
+    <polygon points="482.5,253.7 504.7,260.4 607.4,205.0 536.3,294.4 645.3,334.7 526.7,339.8 510.0,355.4 498.8,422.2 465.9,364.6 445.5,353.4 431.7,335.1 421.7,313.6 375.3,270.8 440.5,271.2 439.8,207.9" fill="none" stroke="#fb8500" stroke-width="2" stroke-linejoin="round" opacity="0.7" />
+    <circle cx="480" cy="310" r="58" fill="#f8f9fa" stroke="#21382f" stroke-width="4" />
+    <text x="480" y="322" text-anchor="middle" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="36" font-weight="900" fill="#21382f">AIGC</text>
+  </g>
+  <text x="72" y="82" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="30" font-weight="800" fill="#21382f">ChuangBTI</text>
+  <text x="72" y="128" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="64" font-weight="900" fill="#21382f">AI教徒</text>
+  <text x="72" y="170" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="24" font-weight="600" fill="#fb8500">能让AI做的，我一行字都不想写。</text>
+  <g>
+    <rect x="100" y="512" width="14" height="53" rx="7" fill="#eadde7" opacity="0.45" />
+    <rect x="125" y="512" width="14" height="53" rx="7" fill="#eadde7" opacity="0.45" />
+    <rect x="150" y="460" width="14" height="105" rx="7" fill="#8ecae6" opacity="0.96" />
+    <rect x="175" y="512" width="14" height="53" rx="7" fill="#eadde7" opacity="0.45" />
+    <rect x="200" y="460" width="14" height="105" rx="7" fill="#8ecae6" opacity="0.96" />
+    <rect x="225" y="512" width="14" height="53" rx="7" fill="#eadde7" opacity="0.45" />
+    <rect x="250" y="512" width="14" height="53" rx="7" fill="#eadde7" opacity="0.45" />
+    <rect x="275" y="486" width="14" height="79" rx="7" fill="#eadde7" opacity="0.7" />
+    <rect x="300" y="512" width="14" height="53" rx="7" fill="#eadde7" opacity="0.45" />
+    <rect x="325" y="512" width="14" height="53" rx="7" fill="#eadde7" opacity="0.45" />
+    <rect x="350" y="512" width="14" height="53" rx="7" fill="#eadde7" opacity="0.45" />
+    <rect x="375" y="512" width="14" height="53" rx="7" fill="#eadde7" opacity="0.45" />
+    <rect x="400" y="486" width="14" height="79" rx="7" fill="#eadde7" opacity="0.7" />
+    <rect x="425" y="512" width="14" height="53" rx="7" fill="#eadde7" opacity="0.45" />
+    <rect x="450" y="486" width="14" height="79" rx="7" fill="#eadde7" opacity="0.7" />
+  </g>
+  <text x="72" y="584" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="20" font-weight="700" fill="#21382f" opacity="0.75">LLH-LHL-LML-LLL-MLM</text>
+  <text x="888" y="584" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="20" font-weight="800" fill="#fb8500">22/45 · 低</text>
+</svg>

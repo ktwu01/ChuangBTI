@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="640" viewBox="0 0 960 640" role="img" aria-labelledby="title desc">
+  <title id="title">SHIP · 上线狂</title>
+  <desc id="desc">ChuangBTI result figure for 上线狂.</desc>
+  <rect width="960" height="640" rx="44" fill="#edf2f4" />
+  <path d="M0 518 C180 430 280 634 456 548 C640 458 718 512 960 420 L960 640 L0 640 Z" fill="#2b2d42" opacity="0.13" />
+  <circle cx="760" cy="126" r="61" fill="#8d99ae" opacity="0.16" />
+  <circle cx="166" cy="160" r="103" fill="#ef233c" opacity="0.13" />
+  <g transform="translate(0 10)">
+    <circle cx="480" cy="300" r="226" fill="#2b2d42" opacity="0.055" />
+    <circle cx="480" cy="300" r="176" fill="none" stroke="#2b2d42" stroke-opacity="0.13" stroke-width="2" />
+    <circle cx="480" cy="300" r="112" fill="none" stroke="#2b2d42" stroke-opacity="0.13" stroke-width="2" />
+    <rect x="474" y="70" width="12" height="42" rx="6" fill="#ef233c" opacity="1" transform="rotate(-90 480 310)" />
+    <rect x="474" y="70" width="12" height="42" rx="6" fill="#ef233c" opacity="1" transform="rotate(-66 480 310)" />
+    <rect x="474" y="70" width="12" height="42" rx="6" fill="#d6e2e6" opacity="0.65" transform="rotate(-42 480 310)" />
+    <rect x="474" y="70" width="12" height="42" rx="6" fill="#ef233c" opacity="1" transform="rotate(-18 480 310)" />
+    <rect x="474" y="70" width="12" height="42" rx="6" fill="#d6e2e6" opacity="0.65" transform="rotate(6 480 310)" />
+    <rect x="474" y="70" width="12" height="42" rx="6" fill="#ef233c" opacity="1" transform="rotate(30 480 310)" />
+    <rect x="474" y="70" width="12" height="42" rx="6" fill="#d6e2e6" opacity="0.65" transform="rotate(54 480 310)" />
+    <rect x="474" y="70" width="12" height="42" rx="6" fill="#d6e2e6" opacity="0.65" transform="rotate(78 480 310)" />
+    <rect x="474" y="70" width="12" height="42" rx="6" fill="#ef233c" opacity="1" transform="rotate(102 480 310)" />
+    <rect x="474" y="70" width="12" height="42" rx="6" fill="#ef233c" opacity="1" transform="rotate(126 480 310)" />
+    <rect x="474" y="70" width="12" height="42" rx="6" fill="#ef233c" opacity="1" transform="rotate(150 480 310)" />
+    <rect x="474" y="70" width="12" height="42" rx="6" fill="#ef233c" opacity="1" transform="rotate(174 480 310)" />
+    <rect x="474" y="70" width="12" height="42" rx="6" fill="#d6e2e6" opacity="0.65" transform="rotate(198 480 310)" />
+    <rect x="474" y="70" width="12" height="42" rx="6" fill="#ef233c" opacity="1" transform="rotate(222 480 310)" />
+    <rect x="474" y="70" width="12" height="42" rx="6" fill="#d6e2e6" opacity="0.65" transform="rotate(246 480 310)" />
+    <polygon points="483.8,143.9 550.6,160.7 566.2,235.8 643.9,260.8 595.8,324.8 623.6,397.3 545.3,404.3 500.7,419.8 441.8,471.6 379.9,441.3 331.7,391.2 309.5,324.0 369.8,271.4 357.7,194.7 435.7,204.1" fill="#ef233c" fill-opacity="0.2" stroke="#2b2d42" stroke-width="6" stroke-linejoin="round" />
+    <polygon points="483.8,143.9 550.6,160.7 566.2,235.8 643.9,260.8 595.8,324.8 623.6,397.3 545.3,404.3 500.7,419.8 441.8,471.6 379.9,441.3 331.7,391.2 309.5,324.0 369.8,271.4 357.7,194.7 435.7,204.1" fill="none" stroke="#8d99ae" stroke-width="2" stroke-linejoin="round" opacity="0.7" />
+    <circle cx="480" cy="310" r="58" fill="#edf2f4" stroke="#2b2d42" stroke-width="4" />
+    <text x="480" y="322" text-anchor="middle" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="36" font-weight="900" fill="#2b2d42">SHIP</text>
+  </g>
+  <text x="72" y="82" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="30" font-weight="800" fill="#2b2d42">ChuangBTI</text>
+  <text x="72" y="128" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="64" font-weight="900" fill="#2b2d42">上线狂</text>
+  <text x="72" y="170" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="24" font-weight="600" fill="#8d99ae">先做出来，再说对不对。</text>
+  <g>
+    <rect x="100" y="460" width="14" height="105" rx="7" fill="#ef233c" opacity="0.96" />
+    <rect x="125" y="460" width="14" height="105" rx="7" fill="#ef233c" opacity="0.96" />
+    <rect x="150" y="486" width="14" height="79" rx="7" fill="#d6e2e6" opacity="0.7" />
+    <rect x="175" y="460" width="14" height="105" rx="7" fill="#ef233c" opacity="0.96" />
+    <rect x="200" y="486" width="14" height="79" rx="7" fill="#d6e2e6" opacity="0.7" />
+    <rect x="225" y="460" width="14" height="105" rx="7" fill="#ef233c" opacity="0.96" />
+    <rect x="250" y="486" width="14" height="79" rx="7" fill="#d6e2e6" opacity="0.7" />
+    <rect x="275" y="486" width="14" height="79" rx="7" fill="#d6e2e6" opacity="0.7" />
+    <rect x="300" y="460" width="14" height="105" rx="7" fill="#ef233c" opacity="0.96" />
+    <rect x="325" y="460" width="14" height="105" rx="7" fill="#ef233c" opacity="0.96" />
+    <rect x="350" y="460" width="14" height="105" rx="7" fill="#ef233c" opacity="0.96" />
+    <rect x="375" y="460" width="14" height="105" rx="7" fill="#ef233c" opacity="0.96" />
+    <rect x="400" y="486" width="14" height="79" rx="7" fill="#d6e2e6" opacity="0.7" />
+    <rect x="425" y="460" width="14" height="105" rx="7" fill="#ef233c" opacity="0.96" />
+    <rect x="450" y="486" width="14" height="79" rx="7" fill="#d6e2e6" opacity="0.7" />
+  </g>
+  <text x="72" y="584" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="20" font-weight="700" fill="#2b2d42" opacity="0.75">HHM-HMH-MMH-HHH-MHM</text>
+  <text x="888" y="584" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="20" font-weight="800" fill="#8d99ae">39/45 · 高</text>
+</svg>

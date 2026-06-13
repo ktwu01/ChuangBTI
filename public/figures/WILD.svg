@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="640" viewBox="0 0 960 640" role="img" aria-labelledby="title desc">
+  <title id="title">WILD · 狂野人生</title>
+  <desc id="desc">ChuangBTI result figure for 狂野人生.</desc>
+  <rect width="960" height="640" rx="44" fill="#fff0f3" />
+  <path d="M0 518 C180 430 280 634 456 548 C640 458 718 512 960 420 L960 640 L0 640 Z" fill="#33272a" opacity="0.13" />
+  <circle cx="760" cy="126" r="81" fill="#9bf6ff" opacity="0.16" />
+  <circle cx="166" cy="160" r="115" fill="#ff8fab" opacity="0.13" />
+  <g transform="translate(0 10)">
+    <circle cx="480" cy="300" r="226" fill="#33272a" opacity="0.055" />
+    <circle cx="480" cy="300" r="176" fill="none" stroke="#33272a" stroke-opacity="0.13" stroke-width="2" />
+    <circle cx="480" cy="300" r="112" fill="none" stroke="#33272a" stroke-opacity="0.13" stroke-width="2" />
+    <rect x="474" y="70" width="12" height="42" rx="6" fill="#d6e2e6" opacity="0.65" transform="rotate(-90 480 310)" />
+    <rect x="474" y="70" width="12" height="42" rx="6" fill="#d6e2e6" opacity="0.35" transform="rotate(-66 480 310)" />
+    <rect x="474" y="70" width="12" height="42" rx="6" fill="#ff8fab" opacity="1" transform="rotate(-42 480 310)" />
+    <rect x="474" y="70" width="12" height="42" rx="6" fill="#d6e2e6" opacity="0.65" transform="rotate(-18 480 310)" />
+    <rect x="474" y="70" width="12" height="42" rx="6" fill="#ff8fab" opacity="1" transform="rotate(6 480 310)" />
+    <rect x="474" y="70" width="12" height="42" rx="6" fill="#d6e2e6" opacity="0.65" transform="rotate(30 480 310)" />
+    <rect x="474" y="70" width="12" height="42" rx="6" fill="#d6e2e6" opacity="0.65" transform="rotate(54 480 310)" />
+    <rect x="474" y="70" width="12" height="42" rx="6" fill="#d6e2e6" opacity="0.35" transform="rotate(78 480 310)" />
+    <rect x="474" y="70" width="12" height="42" rx="6" fill="#ff8fab" opacity="1" transform="rotate(102 480 310)" />
+    <rect x="474" y="70" width="12" height="42" rx="6" fill="#d6e2e6" opacity="0.65" transform="rotate(126 480 310)" />
+    <rect x="474" y="70" width="12" height="42" rx="6" fill="#d6e2e6" opacity="0.35" transform="rotate(150 480 310)" />
+    <rect x="474" y="70" width="12" height="42" rx="6" fill="#ff8fab" opacity="1" transform="rotate(174 480 310)" />
+    <rect x="474" y="70" width="12" height="42" rx="6" fill="#d6e2e6" opacity="0.35" transform="rotate(198 480 310)" />
+    <rect x="474" y="70" width="12" height="42" rx="6" fill="#d6e2e6" opacity="0.65" transform="rotate(222 480 310)" />
+    <rect x="474" y="70" width="12" height="42" rx="6" fill="#ff8fab" opacity="1" transform="rotate(246 480 310)" />
+    <polygon points="482.4,195.3 504.0,259.0 605.8,201.5 588.9,277.1 649.7,331.5 579.9,370.5 544.3,402.6 490.4,364.4 441.1,475.6 412.4,399.0 431.4,336.7 311.5,324.1 423.0,290.1 394.9,230.1 414.9,155.0" fill="#ff8fab" fill-opacity="0.2" stroke="#33272a" stroke-width="6" stroke-linejoin="round" />
+    <polygon points="482.4,195.3 504.0,259.0 605.8,201.5 588.9,277.1 649.7,331.5 579.9,370.5 544.3,402.6 490.4,364.4 441.1,475.6 412.4,399.0 431.4,336.7 311.5,324.1 423.0,290.1 394.9,230.1 414.9,155.0" fill="none" stroke="#9bf6ff" stroke-width="2" stroke-linejoin="round" opacity="0.7" />
+    <circle cx="480" cy="310" r="58" fill="#fff0f3" stroke="#33272a" stroke-width="4" />
+    <text x="480" y="322" text-anchor="middle" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="36" font-weight="900" fill="#33272a">WILD</text>
+  </g>
+  <text x="72" y="82" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="30" font-weight="800" fill="#33272a">ChuangBTI</text>
+  <text x="72" y="128" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="64" font-weight="900" fill="#33272a">狂野人生</text>
+  <text x="72" y="170" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="24" font-weight="600" fill="#9bf6ff">规则？那是别人走不通时用的。</text>
+  <g>
+    <rect x="100" y="486" width="14" height="79" rx="7" fill="#d6e2e6" opacity="0.7" />
+    <rect x="125" y="512" width="14" height="53" rx="7" fill="#d6e2e6" opacity="0.45" />
+    <rect x="150" y="460" width="14" height="105" rx="7" fill="#ff8fab" opacity="0.96" />
+    <rect x="175" y="486" width="14" height="79" rx="7" fill="#d6e2e6" opacity="0.7" />
+    <rect x="200" y="460" width="14" height="105" rx="7" fill="#ff8fab" opacity="0.96" />
+    <rect x="225" y="486" width="14" height="79" rx="7" fill="#d6e2e6" opacity="0.7" />
+    <rect x="250" y="486" width="14" height="79" rx="7" fill="#d6e2e6" opacity="0.7" />
+    <rect x="275" y="512" width="14" height="53" rx="7" fill="#d6e2e6" opacity="0.45" />
+    <rect x="300" y="460" width="14" height="105" rx="7" fill="#ff8fab" opacity="0.96" />
+    <rect x="325" y="486" width="14" height="79" rx="7" fill="#d6e2e6" opacity="0.7" />
+    <rect x="350" y="512" width="14" height="53" rx="7" fill="#d6e2e6" opacity="0.45" />
+    <rect x="375" y="460" width="14" height="105" rx="7" fill="#ff8fab" opacity="0.96" />
+    <rect x="400" y="512" width="14" height="53" rx="7" fill="#d6e2e6" opacity="0.45" />
+    <rect x="425" y="486" width="14" height="79" rx="7" fill="#d6e2e6" opacity="0.7" />
+    <rect x="450" y="460" width="14" height="105" rx="7" fill="#ff8fab" opacity="0.96" />
+  </g>
+  <text x="72" y="584" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="20" font-weight="700" fill="#33272a" opacity="0.75">MLH-MHM-MLH-MLH-LMH</text>
+  <text x="888" y="584" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="20" font-weight="800" fill="#9bf6ff">31/45 · 中</text>
+</svg>

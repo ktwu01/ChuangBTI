@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="640" viewBox="0 0 960 640" role="img" aria-labelledby="title desc">
+  <title id="title">PROM · 氛围感工程师</title>
+  <desc id="desc">ChuangBTI result figure for 氛围感工程师.</desc>
+  <rect width="960" height="640" rx="44" fill="#fffdf7" />
+  <path d="M0 518 C180 430 280 634 456 548 C640 458 718 512 960 420 L960 640 L0 640 Z" fill="#2f1b45" opacity="0.13" />
+  <circle cx="760" cy="126" r="88" fill="#ffa69e" opacity="0.16" />
+  <circle cx="166" cy="160" r="94" fill="#b8f2e6" opacity="0.13" />
+  <g transform="translate(0 10)">
+    <circle cx="480" cy="300" r="226" fill="#2f1b45" opacity="0.055" />
+    <circle cx="480" cy="300" r="176" fill="none" stroke="#2f1b45" stroke-opacity="0.13" stroke-width="2" />
+    <circle cx="480" cy="300" r="112" fill="none" stroke="#2f1b45" stroke-opacity="0.13" stroke-width="2" />
+    <rect x="474" y="70" width="12" height="42" rx="6" fill="#b8f2e6" opacity="1" transform="rotate(-90 480 310)" />
+    <rect x="474" y="70" width="12" height="42" rx="6" fill="#b8f2e6" opacity="1" transform="rotate(-66 480 310)" />
+    <rect x="474" y="70" width="12" height="42" rx="6" fill="#d6e2e6" opacity="0.35" transform="rotate(-42 480 310)" />
+    <rect x="474" y="70" width="12" height="42" rx="6" fill="#b8f2e6" opacity="1" transform="rotate(-18 480 310)" />
+    <rect x="474" y="70" width="12" height="42" rx="6" fill="#d6e2e6" opacity="0.65" transform="rotate(6 480 310)" />
+    <rect x="474" y="70" width="12" height="42" rx="6" fill="#b8f2e6" opacity="1" transform="rotate(30 480 310)" />
+    <rect x="474" y="70" width="12" height="42" rx="6" fill="#d6e2e6" opacity="0.65" transform="rotate(54 480 310)" />
+    <rect x="474" y="70" width="12" height="42" rx="6" fill="#d6e2e6" opacity="0.65" transform="rotate(78 480 310)" />
+    <rect x="474" y="70" width="12" height="42" rx="6" fill="#b8f2e6" opacity="1" transform="rotate(102 480 310)" />
+    <rect x="474" y="70" width="12" height="42" rx="6" fill="#b8f2e6" opacity="1" transform="rotate(126 480 310)" />
+    <rect x="474" y="70" width="12" height="42" rx="6" fill="#b8f2e6" opacity="1" transform="rotate(150 480 310)" />
+    <rect x="474" y="70" width="12" height="42" rx="6" fill="#d6e2e6" opacity="0.65" transform="rotate(174 480 310)" />
+    <rect x="474" y="70" width="12" height="42" rx="6" fill="#d6e2e6" opacity="0.35" transform="rotate(198 480 310)" />
+    <rect x="474" y="70" width="12" height="42" rx="6" fill="#b8f2e6" opacity="1" transform="rotate(222 480 310)" />
+    <rect x="474" y="70" width="12" height="42" rx="6" fill="#b8f2e6" opacity="1" transform="rotate(246 480 310)" />
+    <polygon points="483.0,140.9 552.4,155.0 523.3,272.4 642.7,260.3 594.9,324.2 624.1,396.6 545.8,404.0 501.3,419.7 441.9,474.8 377.0,446.6 332.9,391.4 365.7,320.0 422.9,290.3 357.1,195.3 413.6,153.4" fill="#b8f2e6" fill-opacity="0.2" stroke="#2f1b45" stroke-width="6" stroke-linejoin="round" />
+    <polygon points="483.0,140.9 552.4,155.0 523.3,272.4 642.7,260.3 594.9,324.2 624.1,396.6 545.8,404.0 501.3,419.7 441.9,474.8 377.0,446.6 332.9,391.4 365.7,320.0 422.9,290.3 357.1,195.3 413.6,153.4" fill="none" stroke="#ffa69e" stroke-width="2" stroke-linejoin="round" opacity="0.7" />
+    <circle cx="480" cy="310" r="58" fill="#fffdf7" stroke="#2f1b45" stroke-width="4" />
+    <text x="480" y="322" text-anchor="middle" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="36" font-weight="900" fill="#2f1b45">PROM</text>
+  </g>
+  <text x="72" y="82" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="30" font-weight="800" fill="#2f1b45">ChuangBTI</text>
+  <text x="72" y="128" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="64" font-weight="900" fill="#2f1b45">氛围感工程师</text>
+  <text x="72" y="170" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="24" font-weight="600" fill="#ffa69e">代码不会写，但prompt能写到融资级别。</text>
+  <g>
+    <rect x="100" y="460" width="14" height="105" rx="7" fill="#b8f2e6" opacity="0.96" />
+    <rect x="125" y="460" width="14" height="105" rx="7" fill="#b8f2e6" opacity="0.96" />
+    <rect x="150" y="512" width="14" height="53" rx="7" fill="#d6e2e6" opacity="0.45" />
+    <rect x="175" y="460" width="14" height="105" rx="7" fill="#b8f2e6" opacity="0.96" />
+    <rect x="200" y="486" width="14" height="79" rx="7" fill="#d6e2e6" opacity="0.7" />
+    <rect x="225" y="460" width="14" height="105" rx="7" fill="#b8f2e6" opacity="0.96" />
+    <rect x="250" y="486" width="14" height="79" rx="7" fill="#d6e2e6" opacity="0.7" />
+    <rect x="275" y="486" width="14" height="79" rx="7" fill="#d6e2e6" opacity="0.7" />
+    <rect x="300" y="460" width="14" height="105" rx="7" fill="#b8f2e6" opacity="0.96" />
+    <rect x="325" y="460" width="14" height="105" rx="7" fill="#b8f2e6" opacity="0.96" />
+    <rect x="350" y="460" width="14" height="105" rx="7" fill="#b8f2e6" opacity="0.96" />
+    <rect x="375" y="486" width="14" height="79" rx="7" fill="#d6e2e6" opacity="0.7" />
+    <rect x="400" y="512" width="14" height="53" rx="7" fill="#d6e2e6" opacity="0.45" />
+    <rect x="425" y="460" width="14" height="105" rx="7" fill="#b8f2e6" opacity="0.96" />
+    <rect x="450" y="460" width="14" height="105" rx="7" fill="#b8f2e6" opacity="0.96" />
+  </g>
+  <text x="72" y="584" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="20" font-weight="700" fill="#2f1b45" opacity="0.75">HHL-HMH-MMH-HHM-LHH</text>
+  <text x="888" y="584" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="20" font-weight="800" fill="#ffa69e">37/45 · 高</text>
+</svg>
